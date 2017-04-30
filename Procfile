@@ -1,1 +1,1 @@
-web: gunicorn app:Hiveminds
+web: gunicorn app:app
