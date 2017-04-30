@@ -17,3 +17,4 @@ tflearn==0.3
 Theano==0.9.0
 tqdm==4.11.2
 keras==2.0.4
+h5py==2.7.0
